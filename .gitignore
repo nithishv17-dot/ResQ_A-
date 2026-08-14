@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets and Large Data Files
+.dataset/
+datasets/
+sample_dataset/
+*.csv
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Model weights and saved models
+processed/models/
+*.keras
+*.h5
+*.hdf5
+*.pkl
+*.pth
+*.pt
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and OS files
+*.log
+Thumbs.db
